@@ -1,0 +1,26 @@
+----------------------
+ PRÁCTICA 4 - BICIMAD
+----------------------
+
+Autoras: Claudia Casado Poyatos
+         Natalia García Domínguez
+         Olga Rodríguez Acevedo
+
+
+DESCRIPCIÓN DE LOS DATOS 
+------------------------
+El ayuntamiento de Madrid tiene un data set sobre el uso de BICIMAD en su ciudad. 
+Para llevar a cabo el objetivo diseñado para esta práctica, haremos uso del archivo 
+que recoge los datos pertenecientes a mayo de 2021, ya que nos parece interesante 
+observar cómo afectó la finalización del estado de alarma provocado por el COVID-19.
+
+
+OBJETIVO DE LA PRÁCTICA
+-----------------------
+Primera parte: Estudiar la duración media de los viajes realizados y de las estaciones 
+               (tanto de salida como de llegada) más y menos fecuentadas. 
+
+Segunda parte: Estudiar la relación entre la duración media de los viajes realizados 
+               y cada una de las siguientes variables: - Rango de edad
+                                                       - Franja horaria
+                                                       - Día de la semana 
